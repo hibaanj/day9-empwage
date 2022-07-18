@@ -1,0 +1,15 @@
+C:\Users\anjum\source\repos\empwageUC8\empwageUC8\bin\Debug\net6.0\empwageUC8.exe
+C:\Users\anjum\source\repos\empwageUC8\empwageUC8\bin\Debug\net6.0\empwageUC8.deps.json
+C:\Users\anjum\source\repos\empwageUC8\empwageUC8\bin\Debug\net6.0\empwageUC8.runtimeconfig.json
+C:\Users\anjum\source\repos\empwageUC8\empwageUC8\bin\Debug\net6.0\empwageUC8.dll
+C:\Users\anjum\source\repos\empwageUC8\empwageUC8\bin\Debug\net6.0\empwageUC8.pdb
+C:\Users\anjum\source\repos\empwageUC8\empwageUC8\obj\Debug\net6.0\empwageUC8.csproj.AssemblyReference.cache
+C:\Users\anjum\source\repos\empwageUC8\empwageUC8\obj\Debug\net6.0\empwageUC8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anjum\source\repos\empwageUC8\empwageUC8\obj\Debug\net6.0\empwageUC8.AssemblyInfoInputs.cache
+C:\Users\anjum\source\repos\empwageUC8\empwageUC8\obj\Debug\net6.0\empwageUC8.AssemblyInfo.cs
+C:\Users\anjum\source\repos\empwageUC8\empwageUC8\obj\Debug\net6.0\empwageUC8.csproj.CoreCompileInputs.cache
+C:\Users\anjum\source\repos\empwageUC8\empwageUC8\obj\Debug\net6.0\empwageUC8.dll
+C:\Users\anjum\source\repos\empwageUC8\empwageUC8\obj\Debug\net6.0\refint\empwageUC8.dll
+C:\Users\anjum\source\repos\empwageUC8\empwageUC8\obj\Debug\net6.0\empwageUC8.pdb
+C:\Users\anjum\source\repos\empwageUC8\empwageUC8\obj\Debug\net6.0\empwageUC8.genruntimeconfig.cache
+C:\Users\anjum\source\repos\empwageUC8\empwageUC8\obj\Debug\net6.0\ref\empwageUC8.dll
